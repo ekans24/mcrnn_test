@@ -17,3 +17,6 @@ The code used to produced the images can be find in the script.py file and all t
 # Another Example
 ![alt-text-1](https://github.com/ekans24/mcrnn_test/blob/master/images/12283150_12d37e6389_z.jpg "original image") ![alt-text-2](https://github.com/ekans24/mcrnn_test/blob/master/sample_results/example_result2.jpg "Predicted image")
 
+# References
+
+https://www.analyticsvidhya.com/blog/2019/07/computer-vision-implementing-mask-r-cnn-image-segmentation/
