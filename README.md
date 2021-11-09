@@ -1,5 +1,5 @@
 # mcrnn-test
-Testing out and implementation of Mask-RCNN on some data.
+Testing out and implementation of Mask-RCNN on mainly cars.
 
 # Github Repositories
 Using the following for Mask_RCNN: https://github.com/matterport/Mask_RCNN.git     
@@ -14,5 +14,6 @@ The code used to produced the images can be find in the script.py file and all t
 # Result
 ![alt text](https://github.com/ekans24/mcrnn_test/blob/master/sample_results/example_result1.JPG)
 
-# More Examples
+# Another Example
+![alt-text-1](https://github.com/ekans24/mcrnn_test/blob/master/images/12283150_12d37e6389_z.jpg "original image") ![alt-text-2](https://github.com/ekans24/mcrnn_test/blob/master/sample_results/example_result2.jpg "Predicted image")
 
