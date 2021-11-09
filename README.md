@@ -2,7 +2,7 @@
 Testing out and implementation of Mask-RCNN on mainly cars.
 
 # Github Repositories
-Using the following for Mask_RCNN: https://github.com/matterport/Mask_RCNN.git     
+I used the following for Mask_RCNN algorithm:. The data was also obtained from here. https://github.com/matterport/Mask_RCNN.git     
 I will also use a pre-trained model for the weights which can be downloaded from https://github.com/matterport/Mask_RCNN/releases.
 
 # Implementation
