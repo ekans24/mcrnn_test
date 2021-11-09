@@ -8,4 +8,11 @@ I will also use a pre-trained model for the weights which can be downloaded from
 # Implementation
 The code used to produced the images can be find in the script.py file and all the required packages are found in the requirements.txt file
 
-# Sample images
+# Sample image
+![alt text](https://github.com/ekans24/mcrnn_test/blob/master/images/img_example.JPG)
+
+# Result
+![alt text](https://github.com/ekans24/mcrnn_test/blob/master/sample_results/example_result1.JPG)
+
+# More Examples
+
